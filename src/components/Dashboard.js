@@ -8,7 +8,7 @@ function Dashboard() {
         fontFamily: "Arial, sans-serif",
       }}
     >
-      <h1 style={{ textAlign: "center", color: "#333" }}>Welcome to the Dashboard</h1>
+      <h1 style={{ textAlign: "center", color: "#333" }}>❤️❤️❤️ Welcome to the Dashboard ❤️❤️❤️</h1>
 
       {/* User Info Section */}
       <div

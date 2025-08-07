@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harshit0507/react-tutorial/static/css/main.f855e6bc.css",
+    "main.js": "/Harshit0507/react-tutorial/static/js/main.212757d4.js",
+    "static/js/453.b21a91d2.chunk.js": "/Harshit0507/react-tutorial/static/js/453.b21a91d2.chunk.js",
+    "index.html": "/Harshit0507/react-tutorial/index.html",
+    "main.f855e6bc.css.map": "/Harshit0507/react-tutorial/static/css/main.f855e6bc.css.map",
+    "main.212757d4.js.map": "/Harshit0507/react-tutorial/static/js/main.212757d4.js.map",
+    "453.b21a91d2.chunk.js.map": "/Harshit0507/react-tutorial/static/js/453.b21a91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.212757d4.js"
+  ]
+}
